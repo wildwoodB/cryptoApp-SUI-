@@ -1,6 +1,6 @@
 # Crypto App SwiftUI
 
-This is an application that takes data from the free API CoinGeco and shows us all the information about coins. 
+This is an application that takes data from the free API CoinGecko and shows us all the information about coins. 
 Implemented a search with filtering, implemented a details screen, 
 implemented a portfolio with the ability to add coins to the portfolio.
 
